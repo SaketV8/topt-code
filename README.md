@@ -13,7 +13,7 @@
 </p>
 
 > [!TIP]
-> ### Works in Chrome, Edge & Firefox — build once per browser with the scripts below.
+> Works in `Chrome`, `Edge` & `Firefox`.
 
 > A tiny TOTP authenticator that lives in your browser toolbar. Add an account, and the popup shows its time-based one-time code, the next code, and a smooth countdown to the next refresh — copy a code with a single click.
 
@@ -53,6 +53,16 @@
 - **TOTP:** [`totp-generator`](https://github.com/bellstrand/totp-generator)
 - **Styling:** Tailwind CSS v4 · `class-variance-authority` · `lucide-react`
 - **Tooling:** pnpm · PostCSS · `sharp` (icon generation)
+
+---
+
+## ✅ Topt Code in Action
+
+> kindly wait for a sec to load the demo...
+
+<div align="center">
+  <img src="./docs/assets/topt-code-v1.gif" alt="Topt Code in action">
+</div>
 
 ---
 
